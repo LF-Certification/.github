@@ -1,5 +1,15 @@
-<!--
-Thanks for creating this pull request 🤗
+<!-- PR Guidelines - Inspired by https://jesseduffield.com/Submitting-PRs/
+
+* Read your PR thoroughly as if you were the reviewer.
+* Add reviewers ONLY WHEN the PR is ready for general review (i.e. not a Draft)
+* If you seek feedback before general review, start a Draft PR and add specific
+  reviewers. Note: CODEOWNERS are automatically assigned, cannot be removed and
+  are instructed to disregard Draft PRs.
+* Squash commits before review. Combine your changes into a clear and concise
+  set of commits.
+* Avoid force pushing new commits once reviewers are assigned as this makes
+  tracking changes difficult. If required, the change can be squashed again
+  after approval.
 -->
 
 ## 📑 What
@@ -16,9 +26,8 @@ Thanks for creating this pull request 🤗
 <!-- Describe how you would like this PR to be reviewed -->
 
 ## ✅ Testing
+
 <!-- Make sure you have tested and how someone else would test if required -->
 
 - [ ] I have tested my work
 - [ ] I need you to test it too
-
-<!-- IMPORTANT: Add reviewers ONLY WHEN the PR is ready for review (i.e. not a Draft) -->
